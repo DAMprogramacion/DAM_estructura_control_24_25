@@ -1,0 +1,15 @@
+Ejercicio 1:
+
+Defines dos variables enteras, y debes decir cual es el mayor y menor número, si son iguales también lo decimos, ejemplos:
+
+1 y 6: 6 es el mayor y 1 es el menor.
+5 y 5: ambos números son iguales.
+
+
+Ejercicio 2:
+
+Igual con tres variables, pero ahora las ordenamos de menor a mayor, ejemplo de salidas:
+
+1, 2, 6
+4, 4, 6
+5, 5, 5
