@@ -27,6 +27,7 @@ public class TestEcuaciones {
 			System.out.printf("y = %.2f%n", y);
 		} else 
 			System.out.println("No es resoluble la ecuación");
+		sc.close();  //cerramos el Scanner
 	}
 	
 	private static float calcularX(int a, int b, int c, int d, int e, int f) {
